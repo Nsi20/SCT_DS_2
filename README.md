@@ -103,6 +103,6 @@ The Titanic dataset consists of information on 891 passengers, including:
 ---
 
 ## Acknowledgments
-Special thanks to **SkillCrafe** for this insightful project and to the Kaggle community for providing the Titanic dataset.
+Special thanks to **SkillCraft Technology** for this insightful project and to the Kaggle community for providing the Titanic dataset.
 
 ---
